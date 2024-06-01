@@ -9,3 +9,19 @@ Alat monitoring cuaca berbasis website ini dirancang untuk memberikan data cuaca
 5. Sensor Raindrop: Sensor ini mendeteksi adanya hujan. Dengan sensor raindrop, perangkat dapat memberikan peringatan dini tentang kondisi hujan, yang berguna untuk aplikasi seperti pertanian, konstruksi, dan kegiatan outdoor lainnya.
 6. Sensor LDR (Light Dependent Resistor): Sensor ini digunakan untuk mengukur intensitas cahaya. Data ini dapat digunakan untuk mengukur lama penyinaran matahari dan kondisi pencahayaan, yang bermanfaat untuk aplikasi pertanian dan perencanaan energi.
 7. Daya: Perangkat ini menggunakan baterai yang diisi ulang oleh mini solarcell (panel surya mini). Dengan sumber daya yang terbarukan ini, perangkat dapat beroperasi secara mandiri dalam jangka waktu yang lama tanpa memerlukan sumber daya eksternal, sehingga ideal untuk pemasangan di lokasi terpencil.
+
+## Fungsi Utama:
+
+1. Mengumpulkan data cuaca dari berbagai sensor.
+2. Mengirimkan data ke server atau website untuk pemantauan dan analisis real-time.
+3. Menampilkan informasi cuaca seperti kecepatan angin, tekanan udara, suhu, kelembaban, intensitas cahaya, dan deteksi hujan melalui antarmuka website.
+4. Memanfaatkan sumber daya terbarukan dengan panel surya mini untuk pengoperasian yang berkelanjutan.
+
+## Keunggulan:
+
+1. Real-time Monitoring: Pemantauan cuaca secara langsung melalui website.
+2. Renewable Energy: Menggunakan panel surya mini untuk keberlanjutan daya.
+3. Connectivity: Menggunakan ESP32 dengan konektivitas Wi-Fi untuk akses data jarak jauh.
+4. Comprehensive Data: Menyediakan data cuaca yang lengkap dan akurat dari berbagai sensor.
+
+Alat ini sangat cocok untuk penggunaan di bidang pertanian, penelitian lingkungan, meteorologi, dan aplikasi lainnya yang memerlukan pemantauan cuaca yang andal dan efisien.
